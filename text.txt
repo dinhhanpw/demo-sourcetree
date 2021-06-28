@@ -1,3 +1,9 @@
 First line
 Resolved conflict - second line
+<<<<<<< HEAD
 Develop branch - second line
+=======
+Develop branch - second line
+Passed test
+Fix critical bugs
+>>>>>>> f1412b9 (fix critical bugs)
