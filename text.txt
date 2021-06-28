@@ -2,3 +2,4 @@ First line
 Resolved conflict - second line
 Develop branch - second line
 Passed test
+Fix critical bugs
